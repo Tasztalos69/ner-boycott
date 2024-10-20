@@ -1,0 +1,148 @@
+[uBlock Origin]
+! Version: 1.0
+! Title: NER boycott
+! Last modified: 20 Oct 2024 23:40 UTC
+! Expires: 1 days (update frequency)
+!
+!---------------------------------------------------------------------------!
+!-------------- Description, Terms of use, Issue management ----------------!
+!---------------------------------------------------------------------------!
+! NER boycott
+! Author: Kiss Benedek Máté (https://github.com/tasztalos69)
+! Source: https://www.reddit.com/r/hungary/comments/1fxe5mb/ha_boycott_akkor_boycott_megpr%C3%B3b%C3%A1ltam_%C3%B6sszeszedni
+!
+! Please report any unblocked adverts or problems in the GitHub issue tracker.
+! About filter policy and usage terms please see the homepage above.
+!
+! Kerjuk, jelentsd a nem blokkolt hirdeteseket vagy a hibakat a GitHub issue trackerben.
+! A szuresi iranyelveket, felhasznalasi felteteleket lasd a fenti honlapon.
+!
+! GitHub issues: https://github.com/tasztalos69/ner-boycott/issues
+! GitHub pull requests: https://github.com/tasztalos69/ner-boycott/pulls
+
+! TV
+mediaklikk.hu
+m4sport.hu
+hirtv.hu
+lifetv.hu
+tv2play.hu
+
+! Radio
+!TODO test
+||*radio*mr1*^
+||*radio*mr2*^
+||*radio*mr3*^
+||*radio*mr4*^
+||*radio*petofi*^
+||*radio*kossuth*^
+||*radio*bartok*^
+||*radio*csukas*^
+||*radio*danko*^
+||*radio*sportradio*^
+||*radio*szakcsi*^
+||*radio*nemzetisegi*^
+||*radio*karc*^
+
+hirfm.hu
+retroradio.hu
+radio1gong.hu
+
+! Newspaper - mediaworks / KESMA
+mandiner.hu
+pestisracok.hu
+origo.hu
+magyarnemzet.hu
+ripost.hu
+blikk.hu
+demokrata.hu
+888.hu
+magyarhirlap.hu
+blogstar.hu
+metropol.hu
+nemzetisport.hu
+ridikul.hu
+hirado.hu
+figyelo.hu
+szabadfold.hu
+mediaworks.hu
+managermagazin.hu
+24ora.hu
+vg.hu
+astronet.hu
+automotor.hu
+borsonline.hu
+delmagyar.hu
+hirnyolc.hu
+hirvilag.hu
+kisalfold.hu
+likebalaton.hu
+life.hu
+mainap.hu
+maraton.hu
+mindmegette.hu
+veszpreminaplo.hu
+she.hu
+videkize.hu
+publimont.hu
+cityposter.hu
+travelo.hu
+videa.hu
+ujneplap.hu
+tvmusor.hu
+reblog.hu
+jegyed.hu
+lapcentrum.hu
+freemail.hu
+ingatlanbazar.hu
+koponyeg.hu
+csupasport.hu
+dietaesfitnesz.hu
+kemma.hu
+
+! local
+eszak.hu
+kelet.hu
+naplo.hu
+bama.hu
+baon.hu
+beol.hu
+boon.hu
+duol.hu
+feol.hu
+haon.hu
+heol.hu
+kemma.hu
+nool.hu
+sonline.hu
+szoljon.hu
+szon.hu
+teol.hu
+vaol.hu
+veol.hu
+zaol.hu
+szegedma.hu
+
+! Newspaper - indamedia
+index.hu
+velvet.hu
+economx.hu
+femina.hu
+divany.hu
+sobors.hu
+retikul.hu
+totalcar.hu
+port.hu
+mediafuture.hu
+welovebudapest.com
+welovebalaton.hu
+welovetiszato.hu
+azenkutyam.hu
+azenmacskam.hu
+blog.hu
+indavideo.hu
+indaplay.hu
+
+! Other
+bookline.hu
+libri.hu
+atv.hu
